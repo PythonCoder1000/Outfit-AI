@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: outfit-ai
+    runtime: python
+    buildCommand: pip install uv && uv sync --frozen
+    startCommand: uv run uvicorn src.api:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false   # Render will prompt you to enter this manually — never commit the real value

@@ -1,0 +1,159 @@
+{
+  "fd659f97bab73baa61599c365a58359a557a9d238d11990a9d5b12eaf7b82312": {
+    "schema_version": "1.1",
+    "file_name": "dress.jpg",
+    "description": {
+      "type": "dress",
+      "color": "multicolor",
+      "secondary_color": "pink, blue, orange, white",
+      "pattern": "geometric",
+      "material": "jersey knit",
+      "fit": "relaxed",
+      "formality": "casual",
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "confidence": 0.87
+    }
+  },
+  "f81748e347c12117d28738170c3c082e2f51de768ab1c84c1c26035f9f4a6252": {
+    "schema_version": "1.1",
+    "file_name": "hat.jpg",
+    "description": null
+  },
+  "61e1774af09a2920e63984891f4effd33645362fcc2813be0bec361730c157db": {
+    "schema_version": "1.1",
+    "file_name": "longsleeve.jpg",
+    "description": {
+      "type": "short-sleeve shirt",
+      "color": "white",
+      "secondary_color": "navy blue, gold, dark red",
+      "pattern": "floral",
+      "material": "rayon",
+      "fit": "relaxed",
+      "formality": "casual",
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "confidence": 0.82
+    }
+  },
+  "f9ea9733f312517f105d4175d932cb7242f7aefa3bcb596c40cb96d50681a1cd": {
+    "schema_version": "1.1",
+    "file_name": "outwear.jpg",
+    "description": {
+      "type": "jacket",
+      "color": "sage green",
+      "secondary_color": "",
+      "pattern": "solid",
+      "material": "nylon",
+      "fit": "regular",
+      "formality": "casual",
+      "season": [
+        "spring",
+        "fall"
+      ],
+      "confidence": 0.85
+    }
+  },
+  "768047b0315e26a5275ce2ee95b34d015a30b26572d773520d18692b9b1e9d40": {
+    "schema_version": "1.1",
+    "file_name": "pants.jpg",
+    "description": {
+      "type": "wide-leg pants",
+      "color": "black",
+      "secondary_color": "cream/white",
+      "pattern": "geometric/tribal print",
+      "material": "lightweight woven fabric",
+      "fit": "relaxed",
+      "formality": "casual",
+      "season": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "confidence": 0.88
+    }
+  },
+  "1864f1ab42e90ce88efdbc00ad44b54c3a729c5844ef19a3cbb4f68d4309f796": {
+    "schema_version": "1.1",
+    "file_name": "shirt.jpg",
+    "description": {
+      "type": "shirt",
+      "color": "light blue",
+      "secondary_color": "green, pink, yellow",
+      "pattern": "floral",
+      "material": "rayon",
+      "fit": "relaxed",
+      "formality": "casual",
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "confidence": 0.88
+    }
+  },
+  "2dbad468c3e4e86198435121e19be410089cb185809805aa808576179a3b3a96": {
+    "schema_version": "1.1",
+    "file_name": "shoes.jpg",
+    "description": null
+  },
+  "1a643a62beab5264d5da0bfa6629f5cdfb3564818f684681733a412a20bb0948": {
+    "schema_version": "1.1",
+    "file_name": "shorts.jpg",
+    "description": {
+      "type": "denim shorts",
+      "color": "light gray",
+      "secondary_color": "",
+      "pattern": "solid",
+      "material": "denim",
+      "fit": "slim",
+      "formality": "casual",
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "confidence": 0.92
+    }
+  },
+  "5c5c3caf5295838e6d38cf9c800cfd4bfc924c45c9bea6e36b415ba0ed02bcf4": {
+    "schema_version": "1.1",
+    "file_name": "skirt.jpg",
+    "description": {
+      "type": "skirt",
+      "color": "navy blue",
+      "secondary_color": "",
+      "pattern": "solid",
+      "material": "wool blend",
+      "fit": "regular",
+      "formality": "smart casual",
+      "season": [
+        "spring",
+        "fall",
+        "winter"
+      ],
+      "confidence": 0.85
+    }
+  },
+  "5446fa5a1153069285adde8ab5cda0c061891bc0f8fe00870c7fe8d6290f8874": {
+    "schema_version": "1.1",
+    "file_name": "t-shirt.jpg",
+    "description": {
+      "type": "t-shirt",
+      "color": "terracotta",
+      "secondary_color": "",
+      "pattern": "solid",
+      "material": "cotton",
+      "fit": "relaxed",
+      "formality": "casual",
+      "season": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "confidence": 0.88
+    }
+  }
+}
